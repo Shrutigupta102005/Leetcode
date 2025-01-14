@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## Sorting
 |  |
 | ------- |
