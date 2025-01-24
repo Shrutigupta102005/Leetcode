@@ -12,6 +12,7 @@
 | [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
@@ -39,4 +40,9 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
