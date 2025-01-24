@@ -45,4 +45,20 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
