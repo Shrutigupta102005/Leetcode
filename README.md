@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
