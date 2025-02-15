@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shrutigupta102005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Shrutigupta102005/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Shrutigupta102005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
