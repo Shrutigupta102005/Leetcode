@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shrutigupta102005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
