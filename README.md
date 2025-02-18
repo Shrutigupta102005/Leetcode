@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -44,6 +45,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
