@@ -91,6 +91,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2434-design-a-number-container-system](https://github.com/Shrutigupta102005/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -118,8 +119,17 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
