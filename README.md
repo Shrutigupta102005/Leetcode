@@ -34,6 +34,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -96,5 +97,14 @@
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shrutigupta102005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shrutigupta102005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
