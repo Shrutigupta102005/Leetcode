@@ -14,6 +14,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Shrutigupta102005/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shrutigupta102005/Leetcode/tree/master/0342-power-of-four) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Shrutigupta102005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Shrutigupta102005/Leetcode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shrutigupta102005/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
