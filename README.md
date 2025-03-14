@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shrutigupta102005/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shrutigupta102005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrutigupta102005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -108,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shrutigupta102005/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shrutigupta102005/Leetcode/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shrutigupta102005/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
