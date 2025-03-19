@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Shrutigupta102005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shrutigupta102005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -87,6 +88,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shrutigupta102005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2434-design-a-number-container-system](https://github.com/Shrutigupta102005/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Design
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Shrutigupta102005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Shrutigupta102005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
