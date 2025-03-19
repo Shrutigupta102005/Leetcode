@@ -33,6 +33,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Shrutigupta102005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0908-middle-of-the-linked-list](https://github.com/Shrutigupta102005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
