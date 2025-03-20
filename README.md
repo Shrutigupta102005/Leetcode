@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shrutigupta102005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/Shrutigupta102005/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shrutigupta102005/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shrutigupta102005/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
