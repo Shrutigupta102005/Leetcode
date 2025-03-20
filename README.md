@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Shrutigupta102005/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrutigupta102005/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Shrutigupta102005/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shrutigupta102005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrutigupta102005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
@@ -154,4 +155,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shrutigupta102005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shrutigupta102005/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shrutigupta102005/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
