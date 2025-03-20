@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shrutigupta102005/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shrutigupta102005/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Shrutigupta102005/Leetcode/tree/master/0326-power-of-three) |
@@ -142,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shrutigupta102005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
