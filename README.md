@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/Shrutigupta102005/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Shrutigupta102005/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Shrutigupta102005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shrutigupta102005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shrutigupta102005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shrutigupta102005/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Math
@@ -46,6 +47,7 @@
 | [0010-regular-expression-matching](https://github.com/Shrutigupta102005/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shrutigupta102005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Shrutigupta102005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Shrutigupta102005/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shrutigupta102005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Shrutigupta102005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shrutigupta102005/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
@@ -89,6 +92,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Shrutigupta102005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Shrutigupta102005/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shrutigupta102005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Shrutigupta102005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
@@ -100,6 +104,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shrutigupta102005/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shrutigupta102005/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shrutigupta102005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/Shrutigupta102005/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Design
 |  |
