@@ -1,21 +1,18 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
-        return robber(nums, 0, dp);
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp,-1);
+       return  robb(nums,dp,0);
     }
-
-    public static int robber(int[] arr, int i, int[] dp) {
-        if (i >= arr.length) {
-            return 0;
+    public static int robb(int[]nums,int[]dp,int idx){
+        if(idx >= nums.length  ){
+            return 0 ;
         }
-        if (dp[i] != -1) {
-            return dp[i];
+        if(dp[idx] != -1){
+            return dp[idx];
         }
-        int rob = arr[i] + robber(arr, i + 2, dp);
-        int dontRob = robber(arr, i + 1, dp);
-
-        return dp[i] = Math.max(rob, dontRob);
+        int pick = nums[idx] + robb(nums,dp,idx+2);
+        int notpick = robb(nums,dp,idx+1);
+        return dp[idx] = Math.max(pick,notpick);
     }
 }
