@@ -1,21 +1,31 @@
 class Solution {
-    int count = 0;
 
     public int countSubstrings(String s) {
-        if (s.length() == 0) return 0;
 
-        for (int i = 0; i < s.length(); i++) {
-            pali(s, i, i);     // odd length
-            pali(s, i, i + 1); // even length
+        int count = 0;
+
+        for(int i = 0; i < s.length(); i++){
+
+            count += expand(s, i, i);     // odd length
+            count += expand(s, i, i+1);   // even length
         }
+
         return count;
     }
 
-    public void pali(String s, int i, int j) {
-        while (i >= 0 && j < s.length() && s.charAt(i) == s.charAt(j)) {
+    public int expand(String s, int left, int right){
+
+        int count = 0;
+
+        while(left >= 0 && right < s.length() &&
+              s.charAt(left) == s.charAt(right)){
+
             count++;
-            i--;
-            j++;
+
+            left--;
+            right++;
         }
+
+        return count;
     }
 }
