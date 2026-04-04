@@ -1,44 +1,26 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int [] ans = {-1,-1};
-        ans[0] = firstoccur(nums,target);
-        ans[1] = Lastoccur(nums,target);
+        int[] ans = new int[2];
+
+        ans[0] = fo(nums, target, 0);
+        ans[1] = lo(nums, target, nums.length - 1);
+
         return ans;
     }
-    public static int firstoccur(int[] nums, int target){
-        int s = 0 ;
-        int e = nums.length -1;
-        int res = -1;
-        while(s<=e){
-            int m = s+(e-s)/2;
-            if(nums[m]==target){
-                res = m;
-                e = m-1;
-            }else if(nums[m] > target){
-                    e =m-1;
-            }else{
-                s = m+1;
-            }
-        }
-        return res ;
+
+    public int fo(int[] nums, int target, int idx) {
+        if (idx == nums.length) return -1;
+
+        if (nums[idx] == target) return idx;
+
+        return fo(nums, target, idx + 1);
     }
 
-    public static int Lastoccur(int[] nums, int target){
-        int s = 0 ;
-        int e = nums.length -1;
-        int res = -1;
-        while(s<=e){
-            int m = s+(e-s)/2;
-            if(nums[m]==target){
-                res = m;
-                s = m+1;
-            }else if(nums[m] > target){
-                    e =m-1;
-            }else{
-                s = m+1;
-            }
-        }
-        return res ;
-    }
+    public int lo(int[] nums, int target, int idx) {
+        if (idx < 0) return -1;
 
+        if (nums[idx] == target) return idx;
+
+        return lo(nums, target, idx - 1);
+    }
 }
