@@ -1,21 +1,22 @@
 class Solution {
-    static String[] map ={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+    static String[] map = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
-        List<String> ll = new ArrayList<>();
-        poo(digits,"",ll);
-        return ll;
+        letter(digits,"");
+        return ans;
     }
-
-    public static void poo(String ques,String ans,List<String>ll){
+    List<String> ans = new ArrayList<>();
+    public void letter(String ques,String temp){
         if(ques.length() == 0){
-            ll.add(ans);
+            ans.add(temp);
             return;
         }
         char ch = ques.charAt(0);
-        String getstring = map[ch-'0'] ;
-        for(int i = 0;i<getstring.length();i++){
-        poo(ques.substring(1),ans+getstring.charAt(i),ll);
+        String getstr = map[ch -'0'];
+        for(int i =0;i<getstr.length();i++){
+        letter(ques.substring(1),temp+getstr.charAt(i));
         }
 
     }
+    
+
 }
